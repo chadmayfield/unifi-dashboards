@@ -1,0 +1,127 @@
+{
+  "name": "Overview",
+  "controller_version": "5.11.39",
+  "modules": [
+    {
+      "id": "default:mega|status",
+      "module_id": "mega|status",
+      "restrictions": {
+        "removable": false,
+        "draggable": false
+      },
+      "config": {
+        
+      }
+    },
+    {
+      "module_id": "summary|wifi",
+      "config": {
+        
+      },
+      "id": "e659cf2e-ce1f-4771-8751-e37bfd64c407"
+    },
+    {
+      "module_id": "wifi-association-failures",
+      "config": {
+        
+      },
+      "id": "352b3e75-41d0-4364-952c-a6a9471f4abb"
+    },
+    {
+      "module_id": "wifi-anomalies",
+      "config": {
+        
+      },
+      "id": "c21b2718-4bee-44a2-b9d8-f5efabee2753"
+    },
+    {
+      "module_id": "clients|top5|active",
+      "config": {
+        
+      },
+      "id": "943f51da-2609-496c-969a-38e5f0d3e66b"
+    },
+    {
+      "module_id": "wifi-associations",
+      "config": {
+        
+      },
+      "id": "b3535380-c457-4ae5-b4d4-78671900cb04"
+    },
+    {
+      "module_id": "devices|uap|top5|active",
+      "config": {
+        "trafficType": "total"
+      },
+      "id": "6411adbd-fa87-46fc-8f3c-dfa6d504ad8f"
+    },
+    {
+      "module_id": "dpi|top5|donut-cats",
+      "config": {
+        "palette": "STANDARD_10",
+        "trafficType": "total"
+      },
+      "id": "32444cc5-e899-4732-8b5f-6d204e4580a1"
+    },
+    {
+      "module_id": "dpi|top5|apps",
+      "config": {
+        "trafficType": "total"
+      },
+      "id": "943fb004-6edd-42ed-a159-21c6914d58ff"
+    },
+    {
+      "module_id": "devices|uap|top5|client-count",
+      "config": {
+        
+      },
+      "id": "0d423e3e-6569-4a4f-bd71-2987a1effafd"
+    },
+    {
+      "module_id": "speed-test",
+      "config": {
+        
+      },
+      "id": "afd14a87-4045-41c4-91f2-017a19a194df"
+    },
+    {
+      "module_id": "internet-connection",
+      "config": {
+        "direction": "download",
+        "type": "throughput"
+      },
+      "id": "180e7ca0-e463-4db5-ad81-d1cd6774308a"
+    },
+    {
+      "module_id": "devices|uap|top5|channel-util",
+      "config": {
+        "trafficType": "total"
+      },
+      "id": "4eecc148-6009-4541-a02e-65b128f293ce"
+    },
+    {
+      "module_id": "clients|freq-distribution",
+      "config": {
+        "palette": "BLUE_GRADIENT_10"
+      },
+      "id": "af0df6bc-35a0-4b2b-ab6a-94a57a3566ea"
+    },
+    {
+      "module_id": "vpn|list",
+      "config": {
+        "overviewSortBy": "status",
+        "overviewSortDesc": false,
+        "siteToSiteSortBy": "status",
+        "siteToSiteSortDesc": false
+      },
+      "id": "e7e169f7-c900-4da6-8b7c-d2c3541122be"
+    },
+    {
+      "module_id": "ap-statistics|dropped-packets",
+      "config": {
+        
+      },
+      "id": "2c037698-c471-4522-b861-9bc771a8ee41"
+    }
+  ]
+}
